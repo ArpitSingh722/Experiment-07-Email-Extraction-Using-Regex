@@ -1,0 +1,16 @@
+--- Department & Event Contact Directory ---
+
+For academic inquiries, contact the coordinator at hod.soc@mituniversity.edu.in or dean_office@mitadt.ac.in.
+Student leads for the upcoming hackathon can be reached at vastav.nandedkar@gmail.com and team_kshitij2026@outlook.com.
+
+Support & Billing:
+- Primary Helpdesk: support+tickets@service-desk.org
+- Duplicate Entry Check: vastav.nandedkar@gmail.com
+- Technical Admin: admin123@sub.domain.co.in
+
+Invalid / Malformed Strings (Should be ignored by regex):
+- missing-at-sign.com
+- user@.com
+- @nodomain.org
+- invalid space@domain.com
+- user@domain
